@@ -65,8 +65,8 @@ Before running this application, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd recruitment-platform
+git clone "https://github.com/Abhishek20110/RecruitPro"
+cd RecruitPro
 ```
 
 ### 2. Install Dependencies
